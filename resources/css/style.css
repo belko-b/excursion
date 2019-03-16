@@ -18,6 +18,7 @@ div.heading {
   font-family: Verdana;
 }
 
-div.video {
-  align-content: center;
+video {
+  display: block;
+  margin: 0 auto;
 }
