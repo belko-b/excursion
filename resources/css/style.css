@@ -17,3 +17,7 @@ div.heading {
   text-align: center;
   font-family: Verdana;
 }
+
+div.video {
+  align-content: center;
+}
