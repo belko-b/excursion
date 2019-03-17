@@ -4,7 +4,7 @@ body {
 
 h1 {
   color: white;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 50px;
 }
 
@@ -21,4 +21,11 @@ div.heading {
 video {
   display: block;
   margin: 0 auto;
+}
+
+p {
+  text-align: center;
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
 }
